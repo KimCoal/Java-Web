@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="chapter02.Smartphone"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="chapter02.SmartPhone"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="chapter02.Pythagoras"/>
+    <fullyQualifiedTypeName name="chapter02.myMath"/>
+    <fullyQualifiedTypeName name="chapter02.Triangle"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="dto.InsertBoardDTO"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="dto.UpdateBoardDTO"/>
+    <fullyQualifiedTypeName name="dto.DeleteBoardDTO"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.jdbc.DatabaseMetaData"/>
+    <fullyQualifiedTypeName name="database.Entity.BoardEntity"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="database.DatabaseConnector"/>
+    <fullyQualifiedTypeName name="database.DAO.UserDAO"/>
+    <fullyQualifiedTypeName name="database.Entity.UserEntity"/>
+</qualifiedTypeNameHistroy>
